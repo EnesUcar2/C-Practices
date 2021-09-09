@@ -6,7 +6,7 @@ int main() {
   char b2 = 'm';
   float c1 = 4.2;
   double d1 = 0.21;
-  
+
   printf("%d %c %10d %.1f %f \n%s\n", a1, b1, b2, c1 , d1, "Enes Ucar");
   printf("int: %d byte\n", sizeof(int));
   printf("char: %d byte\n", sizeof(char));
