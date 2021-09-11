@@ -6,7 +6,7 @@ int main() {
     printf(); // değeri okur
     scanf(); // değer alır
     puts(); // printf ile aynı görevde. Tek farkı alt satıra geçer.Tek parametre alır
-    gets(); // scanf ile aynı sadece string alır. Tek parametre alır
+    gets(); // scanf ile aynı sadece string alır. Tek parametre alır farkı boşlukdan sonra da alır
   */
 
   // int i;
