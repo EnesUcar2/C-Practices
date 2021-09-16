@@ -10,5 +10,6 @@ int main() {
 
   printf("%d\n", *p);
   printf("%d\n", *(p + 1));
+
   return 0;
 }
